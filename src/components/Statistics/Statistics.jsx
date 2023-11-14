@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import classNames from 'classnames/bind';
 import css from '../Statistics/Statistics.module.css';
 
 
