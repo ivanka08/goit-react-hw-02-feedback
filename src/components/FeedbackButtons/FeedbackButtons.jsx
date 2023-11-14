@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-import classNames from 'classnames/bind';
 
 
 const Button = ({ children, onLeaveFeedback, type, extraClass, name }) => {
